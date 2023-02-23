@@ -1,0 +1,11 @@
+/.husky
+/.vscode
+/.fest
+/node_modules
+/dist
+/test
+/demo
+/insert
+/offline
+/packed
+/public

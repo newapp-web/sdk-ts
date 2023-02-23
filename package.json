@@ -1,0 +1,10 @@
+{
+  "name": "workflow-cli-template-sdk-ts",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Rollup打包的JS SDK模版，使用TypeScript",
+  "scripts": {
+  },
+  "devDependencies": {
+  }
+}
